@@ -1,0 +1,17 @@
+ul {
+  list-style-type: none;
+}
+li {
+  text-align: left;
+}
+input {
+  font-size: 20px;
+  border-radius: 6px;
+  padding: 10px;
+  margin-right: 5px;
+}
+button {
+  font-size: 20px;
+  border-radius: 6px;
+  padding: 10px;
+}
